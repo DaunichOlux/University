@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>app_icon.png</file>
+        <file>star_high.png</file>
+        <file>star_low.png</file>
+        <file>star_medium.png</file>
+    </qresource>
+</RCC>

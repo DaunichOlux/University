@@ -1,0 +1,24 @@
+# ninja log v6
+22	690	7690979987896015	MebelParser_autogen/timestamp	a601e5ae274ac4aa
+22	690	7690979987896015	MebelParser_autogen/mocs_compilation.cpp	a601e5ae274ac4aa
+22	690	7690979987896015	D:/ВУЗ/2 Семестр/Информатика/Project/MebelParser/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/MebelParser_autogen/timestamp	a601e5ae274ac4aa
+22	690	7690979987896015	D:/ВУЗ/2 Семестр/Информатика/Project/MebelParser/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/MebelParser_autogen/mocs_compilation.cpp	a601e5ae274ac4aa
+697	776	7690979989931839	qrc_resources.cpp	f8e38b6b68b116b6
+697	776	7690979989931839	D:/ВУЗ/2 Семестр/Информатика/Project/MebelParser/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/qrc_resources.cpp	f8e38b6b68b116b6
+797	1002	7690979990224943	CMakeFiles/MebelParser.dir/qrc_resources.cpp.obj	e40ccd1a779b849f
+777	3977	7690979990043591	CMakeFiles/MebelParser.dir/MebelParser_autogen/mocs_compilation.cpp.obj	35759dd0f727e24d
+784	4022	7690979990113721	CMakeFiles/MebelParser.dir/main.cpp.obj	189968b4b66473e0
+791	5700	7690979990175639	CMakeFiles/MebelParser.dir/mainwindow.cpp.obj	fa275edcf888b818
+5701	5954	7690980039282896	MebelParser.exe	83e34bbf9ec20304
+89	624	7690980309850272	MebelParser_autogen/timestamp	a601e5ae274ac4aa
+89	624	7690980309850272	MebelParser_autogen/mocs_compilation.cpp	a601e5ae274ac4aa
+89	624	7690980309850272	D:/ВУЗ/2 Семестр/Информатика/Project/MebelParser/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/MebelParser_autogen/timestamp	a601e5ae274ac4aa
+89	624	7690980309850272	D:/ВУЗ/2 Семестр/Информатика/Project/MebelParser/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/MebelParser_autogen/mocs_compilation.cpp	a601e5ae274ac4aa
+626	3562	7690980310794945	CMakeFiles/MebelParser.dir/MebelParser_autogen/mocs_compilation.cpp.obj	35759dd0f727e24d
+631	3575	7690980310844948	CMakeFiles/MebelParser.dir/main.cpp.obj	189968b4b66473e0
+637	5434	7690980310904916	CMakeFiles/MebelParser.dir/mainwindow.cpp.obj	fa275edcf888b818
+5434	5670	7690980358879419	MebelParser.exe	83e34bbf9ec20304
+90	2839	7691049287987715	CMakeFiles/MebelParser.dir/main.cpp.obj	189968b4b66473e0
+81	2883	7691049287819200	CMakeFiles/MebelParser.dir/MebelParser_autogen/mocs_compilation.cpp.obj	35759dd0f727e24d
+100	4277	7691049288088203	CMakeFiles/MebelParser.dir/mainwindow.cpp.obj	fa275edcf888b818
+4277	4614	7691049329860174	MebelParser.exe	83e34bbf9ec20304
